@@ -40,7 +40,7 @@ A seguir, a lista das disciplinas cursadas e os projetos práticos desenvolvidos
 | ----------------------- | ----------------- |
 | **Algoritmos e Pensamento Computacional** | Desenvolvimento de lógica de programação estruturada.<br>🚀 **Projeto:** *Calculadora Científica em C* (Operações básicas, trigonométricas, matriciais e histórico em CSV). |
 | **Desenvolvimento Front-End Para Web** | Criação de interfaces responsivas e dinâmicas.<br>🚀 **Projetos:**<br>1. *Helicópteros de Luxo* (Landing Page com Mapa Leaflet)<br>2. *Bebidas Imaginárias* (Catálogo com Bootstrap)<br>3. *Template Parallax* (Materialize CSS) |
-| **Design Profissional** | Construção da identidade profissional e gestão de carreira.<br>🚀 **Entregas:** Currículo, LinkedIn otimizado e este Portfólio (README). |
+| **Design Profissional** | Construção da identidade profissional e gestão de carreira.<br>🚀 **Entregas:** Currículo, e este Portfólio (README). |
 | **Modelagem de Banco de Dados** | Projeto conceitual, lógico e físico de bancos relacionais.<br>🚀 **Projeto:** *Cidade Educação* (Sistema de gestão escolar para Cidades Inteligentes em SQL). |
 
 ---
