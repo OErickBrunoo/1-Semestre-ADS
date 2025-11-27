@@ -1,13 +1,9 @@
 # 🌐 **Design Profissional – Avaliação A1**
 
-<a href="https://www.linkedin.com/in/erick-bruno-ferreira-dos-santos/">
-  <img src="https://img.shields.io/badge/LinkedIn-Erick%20Bruno-0077B5?style=for-the-badge&logo=linkedin">
-</a>&nbsp;&nbsp;
+
 <a href="mailto:ERICKFERREIRA2729@GMAIL.COM">
   <img src="https://img.shields.io/badge/Email-ERICKFERREIRA2729@GMAIL.COM-D14836?style=for-the-badge&logo=gmail">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/OErickBrunoo">
-  <img src="https://img.shields.io/badge/GitHub-OErickBrunoo-100000?style=for-the-badge&logo=github">
 </a>
 
 ---
