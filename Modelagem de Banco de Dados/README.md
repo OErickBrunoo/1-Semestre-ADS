@@ -148,7 +148,7 @@ WHERE p.nome = 'Marcos';
 
 ```
 /
-├── Cidade_Educacao_ModeloFisico.sql  # Script principal de criação e população
+├── Modelo_Fisico.sql                 # Script principal de criação e população
 ├── Dicionario de Dados.pdf           # Documentação técnica dos campos
 ├── Modelo Conceitual.brM3            # Arquivo editável do brModelo
 ├── Projeto logico.txt                # Esquema lógico textual
