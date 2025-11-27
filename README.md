@@ -12,11 +12,10 @@
 
 ---
 
-**Aluno:** *Erick Bruno Ferreira Dos Santos*
-
+**Aluno:** *Erick Bruno Ferreira Dos Santos* \
 **Instituição:** *UDF*
 
-**Disciplina:** *Design Profissional*
+
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge)
 ![Curso](https://img.shields.io/badge/Curso-ADS-blue?style=for-the-badge)
