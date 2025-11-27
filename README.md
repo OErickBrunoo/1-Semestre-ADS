@@ -1,16 +1,16 @@
 # 🌐 **Design Profissional – Avaliação A1**
-<a href="[URL_DO_LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-Erick Bruno-0077B5?style=for-the-badge&logo=linkedin">
-</a>  
+
+<a href="https://www.linkedin.com/in/erick-bruno-ferreira-dos-santos/">
+  <img src="https://img.shields.io/badge/LinkedIn-Erick%20Bruno-0077B5?style=for-the-badge&logo=linkedin">
+</a>&nbsp;&nbsp;
 <a href="mailto:ERICKFERREIRA2729@GMAIL.COM">
   <img src="https://img.shields.io/badge/Email-ERICKFERREIRA2729@GMAIL.COM-D14836?style=for-the-badge&logo=gmail">
-</a>  
+</a>&nbsp;&nbsp;
 <a href="https://github.com/OErickBrunoo">
   <img src="https://img.shields.io/badge/GitHub-OErickBrunoo-100000?style=for-the-badge&logo=github">
 </a>
 
 ---
-
 
 **Aluno:** *Erick Bruno Ferreira Dos Santos*
 
@@ -20,7 +20,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge)
 ![Curso](https://img.shields.io/badge/Curso-ADS-blue?style=for-the-badge)
-![Semestre](https://img.shields.io/badge/Semestre-Nº1-blueviolet?style=for-the-badge)
+![Semestre](https://img.shields.io/badge/Semestre-1º-blueviolet?style=for-the-badge)
+
 ---
 
 ## 📘 **Sobre este Repositório**
@@ -38,32 +39,35 @@ Aqui você encontrará documentos, certificados, currículos, relatórios e o po
 
 ## 📚 **Disciplinas e Projetos do Semestre**
 
-A seguir, a lista das disciplinas cursadas, com breve descrição e links dos repositórios correspondentes.
+A seguir, a lista das disciplinas cursadas e os projetos práticos desenvolvidos.
 
-| Disciplina              | Resumo            |
+| Disciplina              | Resumo & Projetos Realizados |
 | ----------------------- | ----------------- |
-| **Algoritmos e Pensamento Computacional** | Disciplina voltada ao desenvolvimento de competências teóricas e práticas, explorando conteúdos essenciais por meio de exercícios e projetos aplicados. |
-| **Desevolvimento Front-End Para Web** | Disciplina focada nos fundamentos de HTML, CSS e JavaScript, desenvolvendo habilidades para criar interfaces funcionais, responsivas e alinhadas às práticas essenciais do front-end. |
-| **Design Profissional** | Disciplina voltada para o aprendizado do mundo profissional e criação de experiências profissionais. |
-| **Modelagem de Banco de Dados** | Disciplina que introduz conceitos de modelagem conceitual, lógica e física, desenvolvendo habilidades para projetar, estruturar e compreender bancos de dados relacionais. |
-
+| **Algoritmos e Pensamento Computacional** | Desenvolvimento de lógica de programação estruturada.<br>🚀 **Projeto:** *Calculadora Científica em C* (Operações básicas, trigonométricas, matriciais e histórico em CSV). |
+| **Desenvolvimento Front-End Para Web** | Criação de interfaces responsivas e dinâmicas.<br>🚀 **Projetos:**<br>1. *Helicópteros de Luxo* (Landing Page com Mapa Leaflet)<br>2. *Bebidas Imaginárias* (Catálogo com Bootstrap)<br>3. *Template Parallax* (Materialize CSS) |
+| **Design Profissional** | Construção da identidade profissional e gestão de carreira.<br>🚀 **Entregas:** Currículo, LinkedIn otimizado e este Portfólio (README). |
+| **Modelagem de Banco de Dados** | Projeto conceitual, lógico e físico de bancos relacionais.<br>🚀 **Projeto:** *Cidade Educação* (Sistema de gestão escolar para Cidades Inteligentes em SQL). |
 
 ---
 
-
 ## 🛠 **Stack Tecnológico Utilizado**
 
-
+Ferramentas e linguagens aplicadas nos projetos listados acima.
 
 ### **Linguagens**
 
-![Badge](https://img.shields.io/badge/C-000?style=for-the-badge)
-![Badge](https://img.shields.io/badge/html-000?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Javascript-000?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Ferramentas & Frameworks**
 
-![Badge](https://img.shields.io/badge/\[FERRAMENTA_1]-000?style=for-the-badge)
-![Badge](https://img.shields.io/badge/\[FERRAMENTA_2]-000?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Materialize](https://img.shields.io/badge/Materialize-eb7077?style=for-the-badge&logo=materialize&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![brModelo](https://img.shields.io/badge/brModelo-Database-lightgrey?style=for-the-badge)
 
-
+---
