@@ -5,21 +5,6 @@ Um sistema robusto de banco de dados relacional projetado para o gerenciamento c
 
 -----
 
-## 🧭 Sumário
-
-  - [Descrição Geral](https://www.google.com/search?q=%23-descri%C3%A7%C3%A3o-geral)
-  - [Modelagem do Sistema](https://www.google.com/search?q=%23-modelagem-do-sistema)
-      - [Modelo Conceitual](https://www.google.com/search?q=%23modelo-conceitual)
-      - [Modelo Lógico](https://www.google.com/search?q=%23modelo-l%C3%B3gico)
-  - [Estrutura do Banco de Dados](https://www.google.com/search?q=%23-estrutura-do-banco-de-dados)
-  - [Dicionário de Dados](https://www.google.com/search?q=%23-dicion%C3%A1rio-de-dados)
-  - [Instalação e Execução](https://www.google.com/search?q=%23-instala%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o)
-  - [Exemplos de Uso (Queries)](https://www.google.com/search?q=%23-exemplos-de-uso-queries)
-  - [Tecnologias Utilizadas](https://www.google.com/search?q=%23-tecnologias-utilizadas)
-  - [Autor](https://www.google.com/search?q=%23-autor)
-
------
-
 ## 📝 Descrição Geral
 
 O projeto **Cidade Educação** visa resolver a fragmentação de dados em ambientes educacionais municipais ou privados. O sistema permite o cadastro e controle de múltiplas instituições, cursos, disciplinas e a alocação de recursos físicos (salas e laboratórios), além de gerenciar todo o ciclo de vida das pessoas envolvidas (alunos, professores e funcionários) através de um modelo de generalização/especialização.
